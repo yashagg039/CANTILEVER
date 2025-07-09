@@ -32,6 +32,7 @@
 ### 1. Clone and Install
 
 ```bash
-git clone https://github.com/your-username/news-buddy.git
+git clone https://github.com/yashagg039/CANTILEVER.git
+
 cd news-buddy
 npm install
